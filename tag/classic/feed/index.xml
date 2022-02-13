@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>classic &#8211; Jessica Barraco</title>
+	<atom:link href="https://www.jessicabarraco.com/tag/classic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.jessicabarraco.com/</link>
+	<description></description>
+	<lastBuildDate>Sat, 14 Sep 2013 01:59:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://www.jessicabarraco.com/wp-content/uploads/2011/01/cropped-largebutterfly-32x32.jpg</url>
+	<title>classic &#8211; Jessica Barraco</title>
+	<link>https://www.jessicabarraco.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rejection</title>
+		<link>https://www.jessicabarraco.com/2011/06/22/rejection/</link>
+					<comments>https://www.jessicabarraco.com/2011/06/22/rejection/#respond</comments>
+		
+		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2011 16:28:16 +0000</pubDate>
+				<category><![CDATA[My Walk-In Closet]]></category>
+		<category><![CDATA[agent]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[dating]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[love]]></category>
+		<category><![CDATA[movies]]></category>
+		<guid isPermaLink="false">https://www.jessicabarraco.com/?p=106</guid>
+
+					<description><![CDATA[<p>Dear Friends, Rejection. Is there anything worse? If you’re like me, you’re a person who takes risks, moves across the country, believes in herself, and does her best to suspend disbelief into the “universe,” or nothing, if you’re at all as cynical as I am. There are so many things in my life that are up in the air and instead of feeling liberated and curious, I feel scared and defeated. It’s not fun for me to not know what’s [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.jessicabarraco.com/2011/06/22/rejection/">Rejection</a> appeared first on <a rel="nofollow" href="https://www.jessicabarraco.com/">Jessica Barraco</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.jessicabarraco.com/2011/06/22/rejection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.jessicabarraco.com @ 2022-02-13 19:10:54 by W3 Total Cache
+-->

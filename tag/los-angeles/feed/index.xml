@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Los Angeles &#8211; Jessica Barraco</title>
+	<atom:link href="https://www.jessicabarraco.com/tag/los-angeles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.jessicabarraco.com/</link>
+	<description></description>
+	<lastBuildDate>Sat, 14 Sep 2013 01:59:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://www.jessicabarraco.com/wp-content/uploads/2011/01/cropped-largebutterfly-32x32.jpg</url>
+	<title>Los Angeles &#8211; Jessica Barraco</title>
+	<link>https://www.jessicabarraco.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Spring Beginnings</title>
+		<link>https://www.jessicabarraco.com/2011/03/28/spring-beginnings/</link>
+					<comments>https://www.jessicabarraco.com/2011/03/28/spring-beginnings/#respond</comments>
+		
+		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<pubDate>Mon, 28 Mar 2011 20:06:45 +0000</pubDate>
+				<category><![CDATA[My Walk-In Closet]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[effort]]></category>
+		<category><![CDATA[Los Angeles]]></category>
+		<category><![CDATA[New York City]]></category>
+		<category><![CDATA[weather]]></category>
+		<guid isPermaLink="false">https://www.jessicabarraco.com/?p=74</guid>
+
+					<description><![CDATA[<p>Dear Friends, Spring will not make up its mind. It wants to be apart of winter’s existence, but won’t commit to becoming its own season. This is why I am freezing in the end of March. I know for some of you, you might be in LA, not freezing, however that is not real weather and you all know it. People who live in southern California think they’re cheating the Earth out of its normal, seasonal cycle. In some ways, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.jessicabarraco.com/2011/03/28/spring-beginnings/">Spring Beginnings</a> appeared first on <a rel="nofollow" href="https://www.jessicabarraco.com/">Jessica Barraco</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.jessicabarraco.com/2011/03/28/spring-beginnings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.jessicabarraco.com @ 2022-02-13 19:11:53 by W3 Total Cache
+-->

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chance &#8211; Jessica Barraco</title>
+	<atom:link href="https://www.jessicabarraco.com/tag/chance/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.jessicabarraco.com/</link>
+	<description></description>
+	<lastBuildDate>Sat, 14 Sep 2013 01:59:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://www.jessicabarraco.com/wp-content/uploads/2011/01/cropped-largebutterfly-32x32.jpg</url>
+	<title>chance &#8211; Jessica Barraco</title>
+	<link>https://www.jessicabarraco.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bitten</title>
+		<link>https://www.jessicabarraco.com/2011/05/26/bitten/</link>
+					<comments>https://www.jessicabarraco.com/2011/05/26/bitten/#respond</comments>
+		
+		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<pubDate>Thu, 26 May 2011 18:55:24 +0000</pubDate>
+				<category><![CDATA[My Walk-In Closet]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[chance]]></category>
+		<category><![CDATA[dating]]></category>
+		<category><![CDATA[happiness]]></category>
+		<category><![CDATA[hopeful]]></category>
+		<category><![CDATA[love]]></category>
+		<category><![CDATA[New York City]]></category>
+		<guid isPermaLink="false">https://www.jessicabarraco.com/?p=94</guid>
+
+					<description><![CDATA[<p>Dear Friends, The only thing that can be sometimes nerve-racking about being me is when things are actually going well and I’m suddenly concerned that somebody might be reading this blog and understand exactly what or who I’m referring to. I guess that’s the price I pay for being an aspiring author. I chose to be honest with the world and share my non-fiction life in a fiction-like way. Usually I complain to you, but today I’m not. Today the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.jessicabarraco.com/2011/05/26/bitten/">Bitten</a> appeared first on <a rel="nofollow" href="https://www.jessicabarraco.com/">Jessica Barraco</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.jessicabarraco.com/2011/05/26/bitten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.jessicabarraco.com @ 2022-02-13 19:11:43 by W3 Total Cache
+-->

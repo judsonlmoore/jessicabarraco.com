@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>moments &#8211; Jessica Barraco</title>
+	<atom:link href="https://www.jessicabarraco.com/tag/moments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.jessicabarraco.com/</link>
+	<description></description>
+	<lastBuildDate>Sat, 14 Sep 2013 01:59:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://www.jessicabarraco.com/wp-content/uploads/2011/01/cropped-largebutterfly-32x32.jpg</url>
+	<title>moments &#8211; Jessica Barraco</title>
+	<link>https://www.jessicabarraco.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Meaningless Coincidence</title>
+		<link>https://www.jessicabarraco.com/2011/04/17/meaningless-coincidence/</link>
+					<comments>https://www.jessicabarraco.com/2011/04/17/meaningless-coincidence/#respond</comments>
+		
+		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<pubDate>Sun, 17 Apr 2011 22:02:41 +0000</pubDate>
+				<category><![CDATA[My Walk-In Closet]]></category>
+		<category><![CDATA[believe]]></category>
+		<category><![CDATA[memories]]></category>
+		<category><![CDATA[mom]]></category>
+		<category><![CDATA[moments]]></category>
+		<category><![CDATA[New York City]]></category>
+		<category><![CDATA[trust]]></category>
+		<guid isPermaLink="false">https://www.jessicabarraco.com/?p=79</guid>
+
+					<description><![CDATA[<p>Dear Friends, Meaningless coincidences. Isn&#8217;t the world full of them? I&#8217;m constantly running into someone, making note of something with valid, mystic connection, and wondering about the time sequence of something that truly translates into meaningless nothing. Someone crosses my mind, and that second they answer my call or I receive an email from them; I think about someone who lives in California, and then I see them in my neighborhood in NYC, just crossing the street. I tell a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.jessicabarraco.com/2011/04/17/meaningless-coincidence/">Meaningless Coincidence</a> appeared first on <a rel="nofollow" href="https://www.jessicabarraco.com/">Jessica Barraco</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://www.jessicabarraco.com/2011/04/17/meaningless-coincidence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: www.jessicabarraco.com @ 2022-02-13 19:11:30 by W3 Total Cache
+-->
